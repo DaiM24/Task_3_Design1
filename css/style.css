@@ -27,7 +27,7 @@ h2 {
     background-color: black;
     padding: 5px 0px;
 }
-.logo {
+header > div > img {
     height: 200px;
     position: absolute;
     right: 8%;
